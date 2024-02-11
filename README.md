@@ -1,4 +1,4 @@
-<div align="center"> <h2> ⚡️ Simple Django ToDo app for beginners ⚡️ </h2></div>
+<div align="center"> <h2> ⚡️ Simple Django ToDo app for Beginners ⚡️ </h2></div>
 
 
 ![image](https://github.com/DaveSimoes/ToDo-Django/assets/109705197/cddf7ad3-f133-48fe-b1b9-b6ebd7e99b1e)
