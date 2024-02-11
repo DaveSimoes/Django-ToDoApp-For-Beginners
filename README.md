@@ -11,7 +11,7 @@ $ git clone https://github.com/DaveSimoes/Django-Todo.git
 ```
 ⚠️ You will need django to be installed in you computer to run this app. Head over to https://www.djangoproject.com/download/ for the download guide
 
-## Get started
+## Get started  🚀
 Once you have downloaded django, go to the cloned repo directory and run the following command
 
 ```bash
